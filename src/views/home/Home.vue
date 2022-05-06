@@ -23,6 +23,7 @@
    <back-top @click.native="backClick" v-show="isShow"></back-top>
 
    <p>123456</p>
+   <p>第二次</p>
   </div>
 </template>
 
